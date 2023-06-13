@@ -8,7 +8,7 @@ I have undertaken an undergraduate in Comptuer Science in which i largely worked
 
 *   🌍  I'm based in United Kingdom
 *   ✉️  You can contact me at [jaysingh4078@gmail.com](mailto:jaysingh4078@gmail.com)
-*   🧠  I'm learning next.js, three.js, tailwindcss
+*   🧠  I'm learning next.js, tailwindcss, SpringBoot 
 *   🤝  I'm open to collaborating on whatever projects you're willing to take on a jr dev!
 
 ### Skills
