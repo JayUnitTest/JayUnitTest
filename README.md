@@ -6,7 +6,7 @@ Junior Developer
 
 I have undertaken an undergraduate in Comptuer Science in which i largely worked with Java and Scala. Throughout the course i slowly unravelled the areas of development I really enjoyed and at this current time im hooked with front-end development, working with javascript.
 
-* My Digital CV is now LIVE! [plusultrabuilds.com]
+* My Digital CV is now LIVE! [DIGITAL CV](plusultrabuilds.com)
 *   🌍  I'm based in United Kingdom
 *   ✉️  You can contact me at [jaysingh4078@gmail.com](mailto:jaysingh4078@gmail.com)
 *   🧠  I'm learning next.js, tailwindcss, SpringBoot 
