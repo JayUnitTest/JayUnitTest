@@ -1,17 +1,16 @@
 Hi 👋 My name is Jay Singh
 ==========================
 
-Junior Developer
+Graduate Developer
 ----------------
 
-I have undertaken an undergraduate in Comptuer Science in which i largely worked with Java and Scala. Throughout the course i slowly unravelled the areas of development I really enjoyed and at this current time im hooked with front-end development, working with javascript.
+Computer Science graduate with a passion for comprehensive development and an ever-expanding interest in the field of cloud computing.
 
 * My [DIGITAL CV](https://plusultrabuilds.com/) is now LIVE! 
 *   🌍  I'm based in United Kingdom
 *   ✉️  You can contact me at [jaysingh4078@gmail.com](mailto:jaysingh4078@gmail.com)
-*   🧠  I'm learning next.js, tailwindcss, SpringBoot 
-*   🤝  I'm open to collaborating on whatever projects you're willing to take on a jr dev!
-
+*   🧠  I'm learning Azure 
+*   🤝  I'm open to collaborating
 ### Skills
 <p align="left">
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
