@@ -1,7 +1,7 @@
 Hi 👋 My name is Jay Singh
 ==========================
 
-Graduate Developer
+Versatile Full-Stack Developer | Cloud Computing Enthusiast
 ----------------
 
 Computer Science graduate with a passion for comprehensive development and an ever-expanding interest in the field of cloud computing.
@@ -9,7 +9,7 @@ Computer Science graduate with a passion for comprehensive development and an ev
 * My [DIGITAL CV](https://plusultrabuilds.com/) is now LIVE! 
 *   🌍  I'm based in United Kingdom
 *   ✉️  You can contact me at [jaysingh4078@gmail.com](mailto:jaysingh4078@gmail.com)
-*   🧠  I'm learning Azure 
+*   🧠  I'm learning Azure
 *   🤝  I'm open to collaborating
 ### Skills
 <p align="left">
