@@ -6,7 +6,7 @@ Versatile Full-Stack Developer | Cloud Computing Enthusiast
 
 Computer Science graduate with a passion for comprehensive development and an ever-expanding interest in the field of cloud computing.
 
-* My [DIGITAL CV](https://plusultrabuilds.com/) is now LIVE! 
+* My [DIGITAL CV](https://jayunittest.github.io/plusultrabuilds/) is now LIVE! 
 *   🌍  I'm based in United Kingdom
 *   ✉️  You can contact me at [jaysingh4078@gmail.com](mailto:jaysingh4078@gmail.com)
 *   🧠  I'm learning Azure
